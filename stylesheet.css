@@ -1,0 +1,22 @@
+body {
+background-color: #eee;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #6699ff;
+}
+
+label {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: #333;
+}
+
+#newToDoText {
+  font-family: sans-serif;
+  font-size: 11px;
+  color: #fff;
+  background-color: #333;
+}
